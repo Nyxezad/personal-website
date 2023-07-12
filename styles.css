@@ -15,11 +15,15 @@
   justify-content: center;
   align-items: center;
 }
+#header-left {
+}
 .header-items {
   padding: 8px 12px;
 }
 #body {
   color: black;
+  font-family: "Kanit", sans-serif;
+  padding: 8px 12px;
 }
 footer {
   position: fixed;
@@ -35,7 +39,7 @@ footer {
 }
 #reach {
   display: flex;
-  margin-left: 10px;
+  padding: 8px 12px;
   font-family: "Kanit", sans-serif;
 }
 #contact {
