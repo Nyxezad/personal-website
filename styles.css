@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0;
+}
+#header {
+  background-color: white;
+  height: 15vh; /*vh = viewport height*/
+  display: flex;
+  justify-content: space-between;
+  font-family: "Kanit", sans-serif;
+}
+.header-separator {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-items {
+  padding: 8px 12px;
+}
