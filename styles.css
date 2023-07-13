@@ -41,12 +41,13 @@ footer {
 
 }
 #contact {
-  font-family: "Kanit", sans-serif;
+  
   color: inherit;
   text-decoration: none;
 }
 
 #contact {
+  font-family: "Kanit", sans-serif;
   background: linear-gradient(
       to right,
       rgba(100, 200, 200, 1),
