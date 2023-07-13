@@ -3,7 +3,6 @@
   margin: 0;
 }
 #header {
-  background-color: white;
   height: 15vh; /*vh = viewport height*/
   display: flex;
   justify-content: space-between;
@@ -111,7 +110,7 @@ a {
     var(--bg-img);
   height: 20em;
   width: 15em;
-  font-size: 1.5em;
+  font-size: 1.4em;
   color: white;
   border-radius: 1em;
   padding: 1em;
