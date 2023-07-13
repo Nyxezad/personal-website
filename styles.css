@@ -70,6 +70,7 @@ footer {
 
 #contact {
   font-family: "Kanit", sans-serif;
+  font-size: 30px;
   background: linear-gradient(
       to right,
       rgba(100, 200, 200, 1),
