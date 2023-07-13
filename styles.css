@@ -250,8 +250,8 @@ a {
   }
 
   .card-grid-space .num {
-    /margin-left: 0;
-    /text-align: center;
+    margin-left: 0;
+    text-align: center;
   }
 }
 
